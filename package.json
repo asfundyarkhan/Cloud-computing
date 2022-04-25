@@ -1,0 +1,20 @@
+{
+  "name": "cloud_computing",
+  "version": "1.0.0",
+  "description": "This calculates the pricing of the cloud storage ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node index.js"
+  },
+  "keywords": [
+    "CLoud",
+    "Storage",
+    "Computing"
+  ],
+  "author": "Asfund Yar Khan",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
